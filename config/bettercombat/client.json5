@@ -11,6 +11,6 @@
 	"isTooltipAttackRangeEnabled": true,
 	"weaponSwingSoundVolume": 100,
 	"isDebugOBBEnabled": true,
-	"swingThruGrassBlacklist": "[ \"farmersdelight\", \"moredelight\" ]",
+	"swingThruGrassBlacklist": "farmersdelight",
 	"mineWithWeaponBlacklist": ""
 }

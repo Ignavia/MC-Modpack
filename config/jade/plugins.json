@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,8 +64,5 @@
   },
   "waystones": {
     "waystone": true
-  },
-  "corpse": {
-    "corpse": true
   }
 }

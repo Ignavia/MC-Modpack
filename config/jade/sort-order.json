@@ -1,5 +1,4 @@
 {
-  "corpse:corpse": null,
   "jade:block_face": null,
   "jade:distance": null,
   "jade:mod_name": null,
@@ -46,5 +45,8 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null,
   "waystones:waystone": null
 }
